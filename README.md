@@ -77,14 +77,12 @@ The bot will connect to your specified RPC and begin listening for matching tran
 
 ---
 
-## 🧠 How It Works (Conceptual)
+## 🧠 How It Works
 
 1. Connects to a Solana RPC endpoint
 2. Monitors confirmed transactions on the blockchain
 3. Filters for transactions originating from a *target wallet*
 4. Builds & sends similar transactions from your wallet
-
-*(You can expand this section after defining core logic.)*
 
 ---
 
