@@ -299,3 +299,4 @@ def start():
             logger.info("Stopping token trading bot.")
             break
 
+start()
